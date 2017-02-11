@@ -1,0 +1,24 @@
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/hkalia/push_swap.git
+[submodule "piscine_c"]
+	path = piscine_c
+	url = https://github.com/hkalia/piscine_c.git
+[submodule "fillit"]
+	path = fillit
+	url = https://github.com/hkalia/fillit.git
+[submodule "fdf"]
+	path = fdf
+	url = https://github.com/hkalia/fdf.git
+[submodule "ft_ls"]
+	path = ft_ls
+	url = https://github.com/hkalia/ft_ls.git
+[submodule "libft"]
+	path = libft
+	url = https://github.com/hkalia/libft.git
+[submodule "libftprintf"]
+	path = libftprintf
+	url = https://github.com/hkalia/libftprintf.git
+[submodule "libarr"]
+	path = libarr
+	url = https://github.com/hkalia/libarr.git
